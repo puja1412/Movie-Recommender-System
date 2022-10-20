@@ -1,5 +1,5 @@
 # Movie-Recommender-System
-live app : https://puja1412-movie-recommender-system-movie-app-gqzvec.streamlitapp.com/
+live app : https://puja1412-movie-recommender-system-movie-app-gqzvec.streamlitapp.com/ 
 
 
 
